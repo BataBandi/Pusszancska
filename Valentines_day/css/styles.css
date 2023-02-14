@@ -1,6 +1,6 @@
 body{
 	background-color: #C51CA1;
-	background-image: url('/images/barack.png');
+	background-image: url('images/barack.png');
 }
 /*Header*/
 .container{
@@ -59,7 +59,7 @@ body{
 	text-align: center;
 }
 #Gallery{
-	background-image: url("/images/Gallery.jpg");
+	background-image: url("images/Gallery.jpg");
 	background-repeat: no-repeat;
 	height: 400px;
 	width: 300px;
@@ -72,7 +72,7 @@ body{
 	font-family: Roboto Condensed;
 }
 #Stories{
-	background-image: url("/images/Stories.jpg");
+	background-image: url("images/Stories.jpg");
 	background-repeat: no-repeat;
 	height: 400px;
 	width: 300px;
@@ -85,7 +85,7 @@ body{
 	font-family: Roboto Condensed;
 }
 #Poetry{
-	background-image: url("/images/Poetry.jpg");
+	background-image: url("images/Poetry.jpg");
 	background-repeat: no-repeat;
 	height: 400px;
 	width: 300px;
